@@ -1,16 +1,11 @@
-# e-coli-beach-predictions
-[![Stories in Ready](https://badge.waffle.io/Chicago/e-coli-beach-predictions.svg?label=ready&title=Ready)](http://waffle.io/Chicago/e-coli-beach-predictions) [![MIT License project](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+# bootcamp-messy-data
 
-Attempting to predict e. coli readings at Chicago beaches. The project should be reproducible, relying on scripts and avoid any manual steps.
+This is a clone, with some modifications, of a recent project predicting e. coli outbreaks at Chicago beaches.
 
-* Repository: https://github.com/Chicago/e-coli-beach-predictions 
-* Issue tracker: https://github.com/Chicago/e-coli-beach-predictions/issues 
-* Project management board: https://waffle.io/Chicago/e-coli-beach-predictions 
-* Documentation and notes: https://github.com/Chicago/e-coli-beach-predictions/wiki 
+Some of the datasets from the actual project have been modified (just a little bit) to incorporate some common data cleaning issues. Check the original repo for the real data.
 
-# Required software
+Original GitHub repo: https://github.com/Chicago/e-coli-beach-predictions
 
-This project uses a mix of [R](www.r-project.org), [Python](www.python.org), and [CSVkit](http://csvkit.readthedocs.org/en/stable/).
 
 # LICENSE
 

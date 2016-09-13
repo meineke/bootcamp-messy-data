@@ -1,5 +1,10 @@
 .Rproj.user
+*.Rproj
 .Rhistory
 .RData
 *.pyc
 *.pyo
+cifs*
+scratchpad.R
+*.html
+.Ruserdata

@@ -10,7 +10,7 @@ clean <- function(j, col.names = c(".id","Laboratory.ID","Client.ID","Reading.1"
   df <- ldply(j, data.frame) #puts all dfs from the list into one df
   df <- df[1:8]
   names(df)=col.names #add column names in
-  df <- df[which(!is.na(df$Client.ID)),] #get's ride of extra rows and ejplainer tejt that appears in the sheets
+  df <- df[which(!is.na(df$Client.ID)),] #gets ride of extra rows and explainer text that appears in the sheets
 }
 
 read_excel_allsheets<- function(filename) {
